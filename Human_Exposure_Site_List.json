@@ -22703,7 +22703,7 @@
       "fedfacilityflag": "N",
       "state_code": "PA",
       "sitename": "VALMONT TCE SITE   (FORMER - VALMONT INDUSTRIAL PARK)",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "zipcode": "18201",
       "state": "Pennsylvania",
       "friendlyurl": "www.epa.gov/superfund/valmont",
@@ -25079,7 +25079,7 @@
       "fedfacilityflag": "N",
       "state_code": "PA",
       "sitename": "AMP, INC. (GLEN ROCK FACILITY)",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HHPA",
       "zipcode": "17327",
       "state": "Pennsylvania",
       "friendlyurl": "www.epa.gov/superfund/amp",
@@ -25871,7 +25871,7 @@
       "fedfacilityflag": "N",
       "state_code": "MD",
       "sitename": "CHEMICAL METALS INDUSTRIES, INC.",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "zipcode": "21230",
       "state": "Maryland",
       "friendlyurl": "www.epa.gov/superfund/chemicalmetals",
@@ -33990,6 +33990,6 @@
     "total_data": 1888,
     "limit": 500000,
     "offset": 0,
-    "timestamp": "05-02-2022 19:00"
+    "timestamp": "05-03-2022 19:00"
   }
 }
