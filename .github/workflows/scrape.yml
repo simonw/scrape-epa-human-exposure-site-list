@@ -17,7 +17,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://www3.epa.gov/semsjson/Human_Exposure_Site_List.json | jq . > Human_Exposure_Site_List.json
+        curl https://www3.epa.gov/semsjson/Human_Exposure_Site_List.json \
+        | jq "del(.meta.timestamp)" > Human_Exposure_Site_List.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
