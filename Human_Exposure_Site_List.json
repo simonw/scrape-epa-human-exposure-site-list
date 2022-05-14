@@ -33989,7 +33989,6 @@
   "meta": {
     "total_data": 1888,
     "limit": 500000,
-    "offset": 0,
-    "timestamp": "05-13-2022 19:00"
+    "offset": 0
   }
 }
