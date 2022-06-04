@@ -341,7 +341,7 @@
       "siteid": "1001455",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of Aug 2020, there is insufficient data to determine the human exposure status at the Fort Richardson site.  The site has numerous on-going investigations.  EPA is assuring that VI assessments are taken to determine whether there are any unacceptable exposures, and that any such exposures are addressed."
+      "humanexposurepathdesc": "As of March 2022, the Fort Richardson Army Base Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID) because of on-going investigations at multiple newly identified sites and evaluation of the vapor intrusion pathway at established Operable Units. In 2010, the Air Force became responsible for administration of environmental programs at Fort Richardson. EPA uses this Human Exposure status when there is a lack of evidence to suggest that actual or reasonably anticipated human exposures are occurring, and that those exposures are above acceptable risk-based levels. The planned activities are to collect sufficient information to evaluate contaminants(s) under remedial investigations at sites AT029 Ruff Road Fire Training Area, AT035 Maneuver Enhancement Brigade, TU117 Headquarters Building, DA090 RV Parking Lots Drum Site, and 3 sites with PFAS.  Land use controls (LUCs) prohibit soil disturbance without a dig permit approved by Air Force environmental staff. LUCS prohibit the use of groundwater as a drinking water source but do not prevent exposure that may occur due to vapor intrusion from groundwater contaminated with volatile substances. Surface water is the primary drinking water source for Fort Richardson. EPA currently anticipates that there will be sufficient data to make a Human Exposure evaluation by 2030 due to the number of sites and types of contaminants under investigation."
     },
     {
       "fedfacilityflag": "N",
@@ -431,7 +431,7 @@
       "siteid": "1001146",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of Aug 2020, there is insufficient data to determine the human exposure control status for the Fort Wainwright site. The Army is planning investigations to determine if there is any potential for exposure to emerging contaminants (PFAS compounds)."
+      "humanexposurepathdesc": "As of March 2022, the Fort Wainwright Army Base Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID) because of on-going investigations at multiple newly identified sites and evaluation of the vapor intrusion pathway at established Operable Units. EPA uses this Human Exposure status when there is a lack of evidence to suggest that actual or reasonably anticipated human exposures are occurring, and that those exposures are above acceptable risk-based levels. The planned activities are to collect sufficient information to evaluate contaminants(s) under remedial investigations at sites FTWW-026 Pesticide Storage Bldg 1599, FTWW-118 North Pole Sinkhole, CC-FTWW-118 DRMO drum site, FTWW-121 TCE near Bldg 3007, CC-FTWW-104 Soill area B3485, CC-FTWW-105 336B Barracks, CC-FTWW-109 Bldg 1054, CC-FTWW-110 Bldg 3014, CC-FTWW-111 Montgomery Road Extension, FTWW-063 North Refueling, FTWW-127 Bldg 3030 S Loading Dock, and 8 sites with PFAS.  Land use controls (LUCs) prohibit soil disturbance without a dig permit approved by Army environmental staff. Groundwater is used as a drinking water source and installation drinking water wells are tested quarterly under requirements of the Safe Drinking Water Act. EPA currently anticipates that there will be sufficient data to make a Human Exposure evaluation by 2030 due to the number of sites and types of contaminants under investigation."
     },
     {
       "fedfacilityflag": "Y",
@@ -1907,7 +1907,7 @@
       "siteid": "1000155",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of Aug 2020, there is insufficient data to make a human exposure determination at the Elmendorf Air Force Base Superfund site.  The site has numerous on-going investigations.  EPA is assuring that VI assessments are taken to determine whether there are any unacceptable exposures, and that any such exposures are addressed."
+      "humanexposurepathdesc": "As of March 2022, the Elmendorf Air Force Base Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID) because of on-going investigations at multiple newly identified sites and evaluation of the vapor intrusion pathway at established Operable Units. EPA uses this Human Exposure status when there is a lack of evidence to suggest that actual or reasonably anticipated human exposures are occurring, and that those exposures are above acceptable risk-based levels. The planned activities are to collect sufficient information to evaluate contaminants(s) under remedial investigations at sites SS022 DRMO yard, TU091 UST/OWS, SO552 TCE, CG111 Johnson Ave Plume, CG703 Northern OU1 Landfill Plume, CG704 Southern OU1 Landfill Plume, SA110 Former IDW Yard, SS117 Bldg 6210, DA115 PCB Soil Pile and 25 sites with PFAS.  Land use controls (LUCs) prohibit soil disturbance without a dig permit approved by Air Force environmental staff. LUCS prohibit the use of groundwater as a drinking water source but do not prevent exposure that may occur due to vapor intrusion from groundwater contaminated with volatile substances. Surface water is the primary drinking water source for Elmendorf AFB. EPA currently anticipates that there will be sufficient data to make a Human Exposure evaluation by 2030 due to the number of sites and types of contaminants under investigation."
     },
     {
       "fedfacilityflag": "Y",
@@ -2717,7 +2717,7 @@
       "siteid": "0902760",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of September 2022, there is insufficient data to evaluate human exposure for Norton AFB based on PFAS contamination in surface soil at two locations and newly identified vapor intrusion (VI) risks at sites AOC33, IRP 17, and potentially AOC4. <br/><br/>PFAS contamination identified in surface soil - All of the former Norton Air Force Base has been transferred, and the locations with PFAS-impacted surface soil are not collocated within areas of the former base with land use controls; therefore, there are no institutional controls or land use controls limiting site use or exposure to receptors.  From discussion with the Air Force, EPA understands that land use within the areas with PFAS-impacted surface soil are exclusively commercial/industrial. Workers park in the area and may ingest or inhale PFAS-impacted dust.  They may also clean or maintain vehicles in the area with PFAS-contamination soil.  Dermal exposure and incidental ingestion is a possibility. Additional pathways may have been created when PFAS-impacted soil was removed during construction and reused elsewhere. A Remedial Investigation is needed to fully evaluate the extent of PFAS contamination and evaluate risk to receptors. The PFAS Remedial Investigation is not planned this fiscal year, and the Air Force is unable to provide an anticipated schedule for further investigation of PFAS at Former Norton AFB. <br/><br/>VI - The Fifth Five Year Review identified some newly constructed buildings near some areas with VI risk; however, the Air Force determined that the closest building seems to be located outside the anticipated extent of vapor migration from the source area.  It is unclear whether additional sampling is needed to delineate the VI risk and update the Conceptual Site Model. In a letter dated April 22, 2021, the Air Force agreed to \"... pursue the addition of Land Use Controls (LUCs) prohibiting residential uses to protect against potential vapor intrusion via a formal Explanation of Significant Differences (ESD) for IRP Site 17 and AOC 33.\""
     },
     {
       "fedfacilityflag": "Y",
@@ -7811,7 +7811,7 @@
       "siteid": "0607441",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of June 2020, there is insufficient information to determine the site-wide Human Exposure Control status at the Main Street Ground Water Plume Superfund Site. A Remedial Investigation (RI) to supplement the site assessment is being conducted to collect sufficient information to make a human exposure evaluation. The site assessment used soil samples and existing ground water wells to make its determination; however, the Remedial Investigation is addressing any unevaluated soil and ground water areas not addressed in the site assessment by constructing additional monitoring wells and taking additional soil gas, indoor air and ground water samples. The RI is anticipated to be completed in November 2020. Further sampling is proposed for soil gas and indoor air at the dry cleaner and surrounding buildings.<br/><br/>EPA, the State of Texas and local water districts are monitoring the water supply wells. Ground water samples in all private and public water supply (PWS) wells indicate that only two private wells are just above the Maximum Concentration Level (MCL)/health based limit, with all other wells below the MCL. The two affected private wells are no longer in use. One PWS well has concentrations below the MCL; the water district is blending the ground water from this well with another PWS well which has no detectible concentrations. Although the affected PWS concentrations are below the MCL, the blending allows non-detect/clean water to flow to the consumer.<br/>"
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
@@ -9737,7 +9737,7 @@
       "siteid": "0600911",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of May 2022, there is insufficient information to determine the Sitewide Human Exposure Control status at the Lee Acres Landfill Superfund Site. Private domestic wells have been drilled in the downgradient area of the Lee Acres Landfill Site where the COC exceedances are confirmed present in the groundwater.  Currently, there is insufficient data to determine if the well owner is using the private well for drinking water purposes. <br/><br/>The activities planned to make the Human Exposure evaluation include conducting a well survey to determine how private well owners are using their well water.<br/><br/>In the meanwhile, the New Mexico Environment Department is requesting that the New Mexico Office of State Engineer place a temporary domestic well drilling moratorium in the area of contamination while additional information is being obtained."
     },
     {
       "fedfacilityflag": "N",
@@ -10259,7 +10259,7 @@
       "siteid": "0600295",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of December 2020, there is insufficient data to determine the human exposure. The site is currently under a Remedial Investigation/Feasibility Study (RI/FS).  The Proposed Responsible Party (PRP) installed new monitoring wells in May of 2020. The goal is to assess groundwater plume boundaries and values of 1,2-DCA in groundwater for off-site residential areas south of Cedar Chemical. <br/>"
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
@@ -11699,7 +11699,7 @@
       "siteid": "0505489",
       "nplstatus": "N",
       "saaflag": "Y",
-      "humanexposurepathdesc": "As of April 2021, there is insufficient information to determine the site-wide Human Exposure Control status at the Peoples Gas Light & Coke 22nd Street Superfund Site. A time-critical removal action to remove contaminant sources was completed at this site in 2009, but a portion of the site (Midwest Generation) was not remediated due to access issues. The Remedial Investigation (RI), a supplemental investigation was completed in December 2020. The final RI report is expected by December 2021. A community involvement plan has also been prepared and is made available at the site repository or at the U.S. Environmental Protection Agency Chicago office.<br/><br/>"
+      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide Human Exposure Control status at the Peoples Gas Light & Coke 22nd Street Superfund Site. A time-critical removal action to remove contaminant sources was completed at this site in 2009, but a portion of the site (Midwest Generation) was not remediated due to access issues. As part of the Remedial Investigation (RI), a supplemental soil and groundwater investigation was completed in December 2020. However, due to third party access issues, vapor intrusion sampling has not been completed. The final RI report is expected by March 2023. A community involvement plan has also been prepared and is made available at the site repository or online at https://semspub.epa.gov/src/document/05/929110.<br/>"
     },
     {
       "fedfacilityflag": "N",
@@ -12419,7 +12419,7 @@
       "siteid": "0504986",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of May 2022, there is not sufficient information available to determine the site-wide Human Exposure Control status at Oconomowoc Electroplating Co., Inc. Superfund Site because of a newly identified emerging contaminant of concern in groundwater. The HE determination will be made after monitoring wells and residential wells are sampled and analyzed for Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) to determine if a human pathway exposure exists. <br/><br/>"
     },
     {
       "fedfacilityflag": "N",
@@ -22589,7 +22589,7 @@
       "siteid": "0304017",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of April 2021, there is insufficient information to determine the site-wide Human Exposure Control status at the Shaffer Equipment/Arbuckle Creek Area Superfund Site. The Site was finalized on the NPL in May 2019, and the evaluation of human health exposure has not yet been completed. EPA is currently completing the initial phase of remedial investigation work to evaluate soil, sediment and surface water concentrations. Groundwater sampling will be conducted in 2021 and a risk assessment is expected to be completed by December 2022.<br/><br/><br/> "
+      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide Human Exposure Control status at the Shaffer Equipment/Arbuckle Creek Area Superfund Site. The Site was finalized on the NPL in May 2019, and the evaluation of human health exposure has not yet been completed. EPA is currently completing the remedial investigation work to evaluate soil, sediment and surface water concentrations.  Groundwater sampling will be completed in September 2022.  A risk assessment for the SEC property soil is scheduled to be completed in July 2023 and the remaining risk assessment work will be completed in June 2023.<br/><br/><br/> "
     },
     {
       "fedfacilityflag": "N",
@@ -26567,7 +26567,7 @@
       "siteid": "0206222",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of June 2021, the Gowanus Canal Superfund Site is considered Human Exposure Not Under Control because of on-going ingestion of fish caught from the Canal.  The Gowanus Canal and Upper New York Bay are under fish and shellfish consumption advisories, issued by NYS DOH based on polychlorinated biphenyl (PCB) and dioxin contamination.  EPA has selected a remedy to address significant contamination found in the sediments throughout the 1.6-mile Canal. EPA has already initiated clean-up activities at the site.  The dredging, capping and in-situ stabilization of contaminated sediments in one of three sections of the canal is expected to begin in late summer 2020. In addition to addressing the contaminated sediments in the Canal, the planned activities to address this pathway include working with the state to ensure fish consumption advisory signs are posted, to clean up some of the former industrial sites along the canal’s banks, reduce sewage overflows, and improve water quality.  <br/><br/>EPA ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets.  Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise. A Community Advisory Group (CAG) comprised of members representing diverse interests in the community has been established to disseminate site information and solicit public comments on project activities.<br/>"
+      "humanexposurepathdesc": "As of April 2022, the Gowanus Canal Superfund Site is considered Human Exposure Not Under Control because of on-going ingestion of fish caught from the Canal.  The Gowanus Canal and Upper New York Bay are under fish and shellfish consumption advisories, issued by NYS DOH based on polychlorinated biphenyl (PCB) and dioxin contamination.  EPA has selected a remedy to address significant contamination found in the sediments throughout the 1.6-mile Canal. EPA has already initiated clean-up activities at the site.  The dredging, capping and in-situ stabilization of contaminated sediments in one of three sections of the canal is expected began in November 2021. In addition to addressing the contaminated sediments in the Canal, the planned activities to address this pathway include working with the state to ensure fish consumption advisory signs are posted, to clean up some of the former industrial sites along the canal’s banks, reduce sewage overflows, and improve water quality.  <br/><br/>EPA ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets.  A site profile has been established on the EPA website to keep the community informed of recent progress at the site.   Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise. A Community Advisory Group (CAG) comprised of members representing diverse interests in the community has been established to disseminate site information and solicit public comments on project activities.<br/>"
     },
     {
       "fedfacilityflag": "N",
@@ -30887,7 +30887,7 @@
       "siteid": "0200516",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As June 2021, there is insufficient information to determine the site-wide Human Exposure Control status at the Sherwin-Williams/Hilliards Creek Superfund Site.  The Site consists of contaminated soil, surface water, sediment and groundwater at the former Sherwin-Williams Paint Manufacturing Plant and downgradient lakes and creeks.  Selection of the soil remedies (OU1 and OU2) have been documented in RODS.  The surface water and groundwater remedies are in the RI/FS stage.   Previous sampling at the Site indicated that free-phase product containing benzene, ethylbenzene and xylene is located at the Site.  In addition, metals such as arsenic and lead have been found in the sediments of Hilliards Creek. The RI/FS for sediment, surface water and groundwater are being conducted and the potential exposure pathways are not yet identified; therefore there is insufficient data to determine the status of the site.<br/><br/>EPA ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets.  A Site profile has been established on the EPA website to keep the community informed of recent progress at the Site.  Additionally, an EPA Community Involvement Coordinator is assigned to the Site and can address specific community concerns as they arise.<br/><br/><br/><br/><br/><br/><br/><br/>"
+      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide Human Exposure Control status at the Sherwin-Williams/Hilliards Creek Superfund Site.  The Site consists of contaminated soil, surface water, sediment and groundwater at the former Sherwin-Williams Paint Manufacturing Plant and downgradient lakes and creeks.  Selection of the soil remedies (OU1 and OU2) and surface water and sediment (OU4) have been documented in Records of Decision (RODs).  Previous sampling at the Site indicated that free-phase product containing benzene, ethylbenzene and xylene is located at the Site.  In addition, metals such as arsenic and lead have been found in the sediments of Hilliards Creek, Silver Lake, Bridgewood Lake and Kirkwood Lake.  The RI/FS for groundwater is being conducted and the potential exposure pathways are not yet identified; therefore there is insufficient data to determine the status of the site.<br/><br/>EPA ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets.  A Site profile has been established on the EPA website to keep the community informed of recent progress at the Site.  Additionally, an EPA Community Involvement Coordinator is assigned to the Site and can address specific community concerns as they arise.<br/>"
     },
     {
       "fedfacilityflag": "N",
