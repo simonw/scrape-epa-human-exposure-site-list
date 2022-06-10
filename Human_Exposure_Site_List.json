@@ -10643,7 +10643,7 @@
       "fedfacilityflag": "N",
       "state_code": "IN",
       "sitename": "KEYSTONE CORRIDOR GROUND WATER CONTAMINATION",
-      "humexposurestscode": "HENC",
+      "humexposurestscode": "HEUC",
       "zipcode": "46205",
       "state": "Indiana",
       "friendlyurl": "www.epa.gov/superfund/keystone-corridor-groundwater",
@@ -11015,7 +11015,7 @@
       "siteid": "0509947",
       "nplstatus": "N",
       "saaflag": "Y",
-      "humanexposurepathdesc": "As of April 2021, there is insufficient information to determine the site-wide Human Exposure Control status at the WPSC Oshkosh Manufactured Gas Plant (MGP) Superfund Site. An upland removal action completed in 2002 included demolition of MGP buildings, excavation of MGP-contaminated soil,and backfilling with clean soil to facilitate re-use of the site as a public park and amphitheater. In 2006 the Potentially Responsible Party entered into an agreement to complete a Remedial Investigation (RI) and Feasibility Study. Site soil, groundwater and sediments are impacted by PAHs and metals. As part of the ongoing RI, a supplemental investigation is planned for summer 2021. A final RI Report is expected January in 2022 that will include a human health risk assessment."
+      "humanexposurepathdesc": "As of April 2022, there is not sufficient information available to determine the site-wide Human Exposure Control status at WPSC Oshkosh Former Manufactured Gas Plant (MGP) Superfund Site. An upland removal action completed in 2002 included demolition of MGP buildings, excavation of MGP-contaminated soil, and backfilling with clean soil to facilitate re-use of the site as a public park and amphitheater. In 2006 the Potentially Responsible Party entered into an agreement to complete a Remedial Investigation (RI) and Feasibility Study. Site soil, groundwater and sediments are impacted by PAHs and metals. A final RI Report is expected August in 2022 that will include a human health risk assessment."
     },
     {
       "fedfacilityflag": "N",
@@ -13859,7 +13859,7 @@
       "siteid": "0503760",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of August 2021, there is insufficient information to determine the site-wide Human Exposure Control status at the Freeway Sanitary Landfill Superfund Site. Gas probe data obtained by the State has shown explosive levels of methane adjacent to the landfill. Subslab gas samples collected from near-site buildings did not indicate a vapor intrusion (VI) risk for these structures, but one on-site building has not been fully evaluated for the VI pathway. The Minnesota Pollution Control Agency's Closed Landfill Program, working under the authority of revised State legislation, has recently initiated a remedial investigation at the Site which will include an evaluation of the VI pathway."
+      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide Human Exposure Control status at the Freeway Sanitary Landfill Superfund Site. Gas probe data obtained by the State has shown explosive levels of methane adjacent to the landfill. Subslab gas samples collected from near-site buildings did not indicate a vapor intrusion (VI) risk for these structures, but one on-site building has not been fully evaluated for the VI pathway. The Minnesota Pollution Control Agency's Closed Landfill Program, lead agency for the site, has been delayed in getting access to complete the VI pathway investigation from a resistant property owner. MPCA expects to be able to complete the investigation in 3-6 months."
     },
     {
       "fedfacilityflag": "N",
@@ -22607,7 +22607,7 @@
       "siteid": "0303920",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of May 2021, there is insufficient data to determine the human exposure status of the Hockessin Groundwater site. A Source Area Remedial Investigation is underway at OU2. Two possible exposure pathways are ingestion of residential well water and/or inhalation from vapor intrusion. The site-wide Remedial Investigation at OU1 is expected to resume in Fall 2021. The RI/FS will continue for the Hockessin Cleaners Facility OU2 and Sunrise Cleaners Facility OU3. When sufficient data is available to make a determination, EPA will update the Human Exposure status at this site."
+      "humanexposurepathdesc": "As of May 2022, there is insufficient data to determine the human exposure status of the Hockessin Groundwater site. A Source Area Remedial Investigation is underway at OU2. Two possible exposure pathways are ingestion of residential well water and/or inhalation from vapor intrusion. The RI/FS will continue for the Hockessin Cleaners Facility OU2 and Sunrise Cleaners Facility OU3. When sufficient data is available to make a determination, EPA will update the Human Exposure status at this site."
     },
     {
       "fedfacilityflag": "Y",
@@ -22697,7 +22697,7 @@
       "siteid": "0303618",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of March 2021, there is insufficient information available to determine the site-wide Human Exposure Control status at the Dwyer Property Ground Water Plume Site. A Remedial Investigation/Feasibility Study (RI/FS) is currently being performed. EPA approved the Potentially Responsible Party's (PRP's) work plan for the RI sampling in September 2018. Phase 1 field work consisting of soils sampling at eight potential areas of interest (PAOIs), installations of 20+ monitoring wells and site-wide groundwater sampling was completed December 2019. Phase 2 fieldwork at 40 PAOIs was completed in August 2020. The Phase 3 PAOI Investigation Work Plan is currently being evaluated and the next set of PAOIs soils sampling will begin in the summer of 2021. Phase 2 monitoring well installations and site-wide monitoring will continue through December 2021. Following the collection of Phase 3 RI data via sampling, EPA will reevaluate the Human Exposure status of the Site."
+      "humanexposurepathdesc": "As of May 2022, there is insufficient information available to determine the site-wide Human Exposure Control status at the Dwyer Property Ground Water Plume Site. A Remedial Investigation/Feasibility Study (RI/FS) is currently being performed. EPA approved the Potentially Responsible Party's (PRP's) work plan for the RI sampling in September 2018. Phase 1 field work consisting of soils sampling at eight potential areas of interest (PAOIs), installations of 20+ monitoring wells and site-wide groundwater sampling was completed December 2019. Phase 2 fieldwork at 40 PAOIs was completed in August 2020. The Phase 3 PAOI Investigation Work Plan is currently being evaluated and the next set of PAOIs soils sampling will begin in the summer of 2021. Following the collection of Phase 3 RI data via sampling, EPA will reevaluate the Human Exposure status of the Site."
     },
     {
       "fedfacilityflag": "N",
@@ -31571,7 +31571,7 @@
       "siteid": "0200200",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of February 2022, there is insufficient information to determine the site-wide human exposure status at the Pioneer Metal Finishing site in Franklinville, New Jersey. A Remedial Investigation/Feasibility Study (RI/FS) is currently being conducted to determine the nature and extent of contamination. Once the RI is completed, a risk assessment will be prepared to determine the potential impact to human health and the environment.<br/><br/>EPA currently ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets which are available on the web. Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise."
+      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide human exposure status at the Pioneer Metal Finishing site in Franklinville, New Jersey.  The site is a former electroplating facility and samples collected in prior investigations indicate soils and sediments in wetlands contaminated with chromium, copper, nickel and PCBs.  A Remedial Investigation/Feasibility Study (RI/FS) is currently being conducted to determine the nature and extent of contamination. Once the RI is completed, a risk assessment will be prepared to determine the potential impact to human health and the environment.  It is anticipated that upon completion of the risk assessments and the selection of the remedy, a sitewide human exposure determination can be made. <br/><br/>EPA currently ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets.  A site profile has been established on the EPA website to keep the community informed of recent progress at the site.  Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise."
     },
     {
       "fedfacilityflag": "N",
