@@ -20355,7 +20355,7 @@
       "county": "MCLEAN",
       "regionid": "04",
       "siteid": "0402076",
-      "nplstatus": "F",
+      "nplstatus": "D",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -23433,7 +23433,7 @@
       "county": "CHESTERFIELD",
       "regionid": "03",
       "siteid": "0302581",
-      "nplstatus": "F",
+      "nplstatus": "D",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -26025,7 +26025,7 @@
       "county": "KENT",
       "regionid": "03",
       "siteid": "0300124",
-      "nplstatus": "F",
+      "nplstatus": "D",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -33009,7 +33009,7 @@
       "county": "CUMBERLAND",
       "regionid": "01",
       "siteid": "0101027",
-      "nplstatus": "F",
+      "nplstatus": "D",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
