@@ -3011,7 +3011,7 @@
       "fedfacilityflag": "N",
       "state_code": "CA",
       "sitename": "SYNERTEK, INC. (BUILDING 1)",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "zipcode": "95051",
       "state": "California",
       "friendlyurl": "www.epa.gov/superfund/synertek",
@@ -3497,7 +3497,7 @@
       "fedfacilityflag": "N",
       "state_code": "CA",
       "sitename": "CELTOR CHEMICAL WORKS",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HENC",
       "zipcode": "95546",
       "state": "California",
       "friendlyurl": "www.epa.gov/superfund/celtorchemical",
@@ -5925,6 +5925,24 @@
     },
     {
       "fedfacilityflag": "N",
+      "state_code": "NE",
+      "sitename": "PCE - CARRIAGE CLEANERS",
+      "humexposurestscode": "",
+      "zipcode": "68005",
+      "state": "Nebraska",
+      "friendlyurl": "www.epa.gov/superfund/pcecarriagecleaners",
+      "eibaselinesiteInd": "N",
+      "city": "BELLEVUE",
+      "epaid": "NEN000710226",
+      "county": "SARPY",
+      "regionid": "07",
+      "siteid": "0710226",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "humanexposurepathdesc": ""
+    },
+    {
+      "fedfacilityflag": "N",
       "state_code": "KS",
       "sitename": "CHEROKEE ZINC - WEIR SMELTER",
       "humexposurestscode": "",
@@ -6009,7 +6027,7 @@
       "county": "PLYMOUTH",
       "regionid": "07",
       "siteid": "0706042",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -22521,24 +22539,6 @@
     },
     {
       "fedfacilityflag": "N",
-      "state_code": "PA",
-      "sitename": "EAST TENTH STREET",
-      "humexposurestscode": "HEUC",
-      "zipcode": "19061",
-      "state": "Pennsylvania",
-      "friendlyurl": "www.epa.gov/superfund/easttenthstreet",
-      "eibaselinesiteInd": "N",
-      "city": "MARCUS HOOK",
-      "epaid": "PAD987323458",
-      "county": "DELAWARE",
-      "regionid": "03",
-      "siteid": "0304250",
-      "nplstatus": "P",
-      "saaflag": "N",
-      "humanexposurepathdesc": ""
-    },
-    {
-      "fedfacilityflag": "N",
       "state_code": "DE",
       "sitename": "BLADES GROUNDWATER",
       "humexposurestscode": "HEID",
@@ -22569,6 +22569,24 @@
       "county": "SUSSEX",
       "regionid": "03",
       "siteid": "0304167",
+      "nplstatus": "F",
+      "saaflag": "N",
+      "humanexposurepathdesc": ""
+    },
+    {
+      "fedfacilityflag": "N",
+      "state_code": "DE",
+      "sitename": "EAST BASIN ROAD GROUNDWATER",
+      "humexposurestscode": "",
+      "zipcode": "19720",
+      "state": "Delaware",
+      "friendlyurl": "www.epa.gov/superfund/eastbasin",
+      "eibaselinesiteInd": "N",
+      "city": "NEW CASTLE",
+      "epaid": "DEN000304044",
+      "county": "NEW CASTLE",
+      "regionid": "03",
+      "siteid": "0304044",
       "nplstatus": "P",
       "saaflag": "N",
       "humanexposurepathdesc": ""
@@ -27177,7 +27195,7 @@
       "county": "GUANICA",
       "regionid": "02",
       "siteid": "0203717",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -27357,7 +27375,7 @@
       "county": "CAYUGA",
       "regionid": "02",
       "siteid": "0203129",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -28671,7 +28689,7 @@
       "county": "BERGEN",
       "regionid": "02",
       "siteid": "0201845",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "humanexposurepathdesc": ""
     },
@@ -33987,7 +34005,7 @@
     }
   ],
   "meta": {
-    "total_data": 1888,
+    "total_data": 1889,
     "limit": 500000,
     "offset": 0
   }
