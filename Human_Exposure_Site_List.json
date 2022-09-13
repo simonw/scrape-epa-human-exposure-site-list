@@ -413,7 +413,7 @@
       "siteid": "1001206",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of June 2022, EPA has changed this site status to HEID due to the changes in EPA’s screening levels (RSLs) for PFAS. We have PFAS groundwater data that has not been sufficiently analyzed based on the new groundwater RSLs, and additional PFAS data that is not back from the lab yet.  We are proposing that we make the time period to evaluate HEID one year."
     },
     {
       "fedfacilityflag": "Y",
@@ -593,7 +593,7 @@
       "siteid": "1001121",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of June, 2022, we have changed to the Human Exposure EI Status to HEID due to the changes in EPA’s screening levels (RSLs) for PFAS. We have PFAS groundwater data that has not been sufficiently analyzed based on the new groundwater RSLs, and additional PFAS data that is not back from the lab yet.  We are proposing that we make the time period to evaluate HEID one year."
+      "humanexposurepathdesc": "As of June 2022, we have changed to the Human Exposure EI Status to HEID due to the changes in EPA’s screening levels (RSLs) for PFAS. We have PFAS groundwater data that has not been sufficiently analyzed based on the new groundwater RSLs, and additional PFAS data that is not back from the lab yet.  We are proposing that we make the time period to evaluate HEID one year."
     },
     {
       "fedfacilityflag": "Y",
@@ -755,7 +755,7 @@
       "siteid": "1001102",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of Aug 2020, there is insufficient data to determine the human exposure status of the Naval Undersea Warfare Engineering Station Superfund site. In the 2008, Sediment Tissue Long Term Monitoring report for OU2 Area 8, levels of cadmium, chromium, lead, and mercury in littleneck clams harvested from seep areas exceeded levels deemed protective of human health. Currently, there are fish advisories in place to deter shellfish harvesting in this area.  The Navy controls access and the Suquamish Tribe has warned its members not to harvest or eat clams in this area. EPA has been told by Tribal representatives that tribal members generally adhere to the harvesting guidelines provided by the Tribe. Therefore, EPA and the state believe that there are adequate controls in place such that there is no likely exposure pathway for human health risk from consumption of littleneck clams near Area 8. However, the 2008 study identified potential sediment contamination from Area 8 seeps that may be a source of potential contamination in the deeper sub-tidal areas. This contamination may impact other fish in Liberty Bay that are not covered by the health department's fish advisories. The Navy’s most recent Five Year Review identifies this issue.  The Navy has collected additional data in accordance with a Sampling and Analysis Plan, and is performing both ecological and human health risk evaluations based on this data.  EPA estimates it will have sufficient information to determine the Human Exposure control status for this Site by 2021. "
+      "humanexposurepathdesc": "As of August 2020, there is insufficient data to determine the human exposure status of the Naval Undersea Warfare Engineering Station Superfund site. In the 2008, Sediment Tissue Long Term Monitoring report for OU2 Area 8, levels of cadmium, chromium, lead, and mercury in littleneck clams harvested from seep areas exceeded levels deemed protective of human health. Currently, there are fish advisories in place to deter shellfish harvesting in this area.  The Navy controls access and the Suquamish Tribe has warned its members not to harvest or eat clams in this area. EPA has been told by Tribal representatives that tribal members generally adhere to the harvesting guidelines provided by the Tribe. Therefore, EPA and the state believe that there are adequate controls in place such that there is no likely exposure pathway for human health risk from consumption of littleneck clams near Area 8. However, the 2008 study identified potential sediment contamination from Area 8 seeps that may be a source of potential contamination in the deeper sub-tidal areas. This contamination may impact other fish in Liberty Bay that are not covered by the health department's fish advisories. The Navy’s most recent Five Year Review identifies this issue.  The Navy has collected additional data in accordance with a Sampling and Analysis Plan, and is performing both ecological and human health risk evaluations based on this data.  EPA estimates it will have sufficient information to determine the Human Exposure control status for this Site by 2021. "
     },
     {
       "fedfacilityflag": "N",
@@ -2555,7 +2555,7 @@
       "siteid": "0902792",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of September 2022, there is insufficient information available to determine the human exposure status at the Sharpe Army Depot site. Emerging contaminants are currently being investigated.  The PRP is working on sampling potentially impacted drinking water wells and initiating a remedial investigation."
     },
     {
       "fedfacilityflag": "Y",
@@ -3569,7 +3569,7 @@
       "fedfacilityflag": "N",
       "state_code": "CA",
       "sitename": "MCCOLL",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HEPR",
       "zipcode": "92833",
       "state": "California",
       "friendlyurl": "www.epa.gov/superfund/mccoll",
@@ -7133,7 +7133,7 @@
       "fedfacilityflag": "N",
       "state_code": "KS",
       "sitename": "57TH AND NORTH BROADWAY STREETS SITE",
-      "humexposurestscode": "HENC",
+      "humexposurestscode": "HEUC",
       "zipcode": "67219",
       "state": "Kansas",
       "friendlyurl": "www.epa.gov/superfund/57thandbroadway",
@@ -8675,7 +8675,7 @@
       "siteid": "0604293",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of April 2021, there is sufficient data to determine the site-wide Human Exposure status of the American Creosote Deridder site. This site is an abandoned wood preserving facility. Based on the April 2021 Remedial Investigation, there are impacts to soils and groundwater on-site and soils, sediments, and surface water off-site. The site overlies the Chicot Aquifer which is the primary drinking water supply for the region, however, nearby residents are on a public drinking water supply which is regularly tested and has shown no impacts.  Based on the April 2021 Human Health Risk Assessment, for on-site areas, there are potential risks to future residents, construction workers, commercial/industrial workers, and adolescent trespassers.  Based on the April 2021 Human Health Risk Assessment, for off-site areas, there are no potential risks to future residents, construction workers, commercial/industrial workers, and adolescent trespassers.  EPA ensures the community is informed through city council meetings and will continue to engage the community throughout the Superfund process."
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
@@ -10673,7 +10673,7 @@
       "siteid": "0510399",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of August 2021, the Keystone Corridor Ground Water Contamination Superfund Site is considered \"Current Human Exposure Not Under Control\" due to vapor intrusion (VI) issues discovered in spring 2017. EPA evaluated the VI exposure pathway during the remedial investigation. In April 2017, preliminary draft results from sub-slab and/or indoor air sampling indicated exceedances of EPA's VI screening levels and/or removal management levels at both residential and commercial/industrial buildings. Shortly after this discovery, during a May 2017 time-critical removal action, EPA installed vapor mitigation systems at two residential properties where indoor air concentrations exceeded removal management levels. EPA issued an Interim Record of Decision in September 2018 which selected an interim remedial action -- installation of VI mitigation systems -- for 8 known impacted commercial/industrial properties, as well as any other residential or commercial/industrial properties within the VI area of concern at which VI is shown to be occurring.  In Summer 2021, VI mitigation systems were installed at the 8 known commercial/industrial buildings and at 3 additional buildings (1 commercial/industrial and 2 residential) that were identified during the remedial design sampling. However, EPA also needs to test up to 10 remaining buildings (6 commercial/industrial and 4 residential) within the VI area of concern to identify whether VI may be occurring, and then install mitigation systems at those properties if necessary. EPA anticipates that these actions will be completed by Spring 2022."
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
@@ -12851,7 +12851,7 @@
       "siteid": "0504619",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of August 2022, the Nease Chemical Superfund Site is Insufficient Data to Determine Human Health Exposure Under Control (HEID) because of a newly identified exposure pathway; vapor intrusion data is needed for an on-property building to determine if vinyl chloride concentrations in groundwater are impacting indoor air quality. Vapor intrusion sampling is scheduled for fall 2022 and EPA expects to be able to make a determination by the end of 2024."
     },
     {
       "fedfacilityflag": "N",
@@ -15209,7 +15209,7 @@
       "siteid": "0502388",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of July 2022, the Adam’s Plating Superfund site is considered “Current Human Exposure Not Under Control” due to the potential current and future exposure via vapor intrusion or direct volatilization of 1,1-dichloroethane from groundwater to indoor air at RP07. The planned activities to address this pathway are installation of a vapor intrusion mitigation system at RP07 and potential groundwater source control at the Site."
     },
     {
       "fedfacilityflag": "N",
@@ -15749,7 +15749,7 @@
       "siteid": "0501813",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of June 2022, there is not sufficient information available to determine the site-wide Human Exposure Control status at the Main Street Well Field Site. EPA has determined that the following activities should be completed to make the outstanding HE determination: conduct groundwater sampling at the East Side; complete a vapor intrusion investigation on the West Side (near residential monitoring wells MW-18R and MW-21); conduct a vapor intrusion investigation on the East Side properties (where East Side groundwater concentrations exceed VISLs); conduct a survey of potable wells near the Site; and evaluate the potential for 1,4-dioxane within the contaminant plume. <br/><br/>The primary contaminants of concern for the Site are VOCs including trichloroethene, vinyl chloride, tetrachloroethene, trans-1,2- dichloroethene, cis-1,2-dichloroethene."
     },
     {
       "fedfacilityflag": "N",
@@ -15767,7 +15767,7 @@
       "siteid": "0501812",
       "nplstatus": "D",
       "saaflag": "N",
-      "humanexposurepathdesc": "The Lemon Lane Landfill Superfund site is considered \"Current Human Exposures Not Under Control\" because PCBs are discharging from off-site springs into Clear Creek and users of the Creek can be exposed to unacceptable PCB levels through ingestion of fish.  Although fish consumption advisories are in place in Clear Creek by the State of Indiana and warning signs are posted; fishing has been observed in the Creek.  This is a rural community and we believe the fish are being consumed.  EPA has held numerous citizens information committee meetings which are broadcast over the local cable access channel.  Fish ingestion site hazards are discussed at these meetings.  EPA has given a Technical Assistance Grant to a citizens group in Bloomington which helps fund the development of a web page to disseminate site information.  Final site construction activities are underway and are expected to be completed in 2012."
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
@@ -15972,7 +15972,7 @@
       "state_code": "IN",
       "sitename": "ENVIROCHEM CORP.",
       "humexposurestscode": "HEUC",
-      "zipcode": "46077",
+      "zipcode": "46077-4216",
       "state": "Indiana",
       "friendlyurl": "www.epa.gov/superfund/envirochem-corp",
       "eibaselinesiteInd": "Y",
@@ -22607,7 +22607,7 @@
       "siteid": "0304017",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide Human Exposure Control status at the Shaffer Equipment/Arbuckle Creek Area Superfund Site. The Site was finalized on the NPL in May 2019, and the evaluation of human health exposure has not yet been completed. EPA is currently completing the remedial investigation work to evaluate soil, sediment and surface water concentrations.  Groundwater sampling will be completed in September 2022.  A risk assessment for the SEC property soil is scheduled to be completed in July 2023 and the remaining risk assessment work will be completed in June 2023.<br/><br/><br/> "
+      "humanexposurepathdesc": "As of April 2022, the site-wide Human Exposure Control status at the Shaffer Equipment/Arbuckle Creek Area Superfund Site is considered \"Human Exposure Not Under Control (HENC). The Site was finalized on the NPL in May 2019. The former SEC Property HHRA has been finalized and indicates unacceptable risk. PCBs in the surface soil at concentrations above 1 mg/kg.<br/>"
     },
     {
       "fedfacilityflag": "N",
@@ -23435,7 +23435,7 @@
       "siteid": "0302592",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of March 2022, the Culpeper Wood Preservers, Inc. Superfund site is currently considered Human Exposure Not Under Control. This site is an active wood treating facility located in Culpeper, VA.  Historic use of chromated copper arsenate (CCA) to produce pressure treated lumber has impacted various media at the site.  The use of CCA was discontinued in 2002 and the facility has since used other preservative methods.  Currently, surface soil contamination consisting of metals (primarily arsenic and hexavalent chromium) and polynuclear aromatic hydrocarbons (PAHs) poses a potential exposure pathway to human receptors.  Portions of this surficial soil contamination have since been paved to reduce risk.  Nearby private wells have also been impacted by arsenic and chromium and are being provided with bottled water to mitigate risks associated with groundwater ingestion. In January 2020, EPA entered into an Administrative Settlement Agreement and Order on Consent (ASAOC) with the Potentially Responsible Party (PRP), whereby the  PRP will perform a removal action to connect impacted properties to a waterline. In December 2021, the PRP completed construction for properties on the North Side of Brandy Road. Construction on the South Side of Brandy Road is tentatively scheduled for Summer 2022 (contingent on securing easements and resolution of supply chain issues)."
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
@@ -30293,7 +30293,7 @@
       "siteid": "0200719",
       "nplstatus": "D",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of August 2022, there is insufficient information to determine the site-wide human exposure status at the Combe Fill North Landfill site.  1,4-dioxane has been detected at elevated levels in the groundwater.  It is unknown if there are current exposures from this specific pathway.<br/><br/>The site is deleted from the NPL and the State is conducting O&M. The State is conducting potable well sampling and needs to install monitoring wells to determine a path forward. An ESD is needed to document institutional controls that are required.    <br/><br/>EPA ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets. A site profile has been established on the EPA website to keep the community informed of recent progress at the site.  Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise."
     },
     {
       "fedfacilityflag": "N",
