@@ -3509,7 +3509,7 @@
       "siteid": "0901938",
       "nplstatus": "D",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "In 2016 additional mine tailings were inadvertently discovered along the bank of the Trinity River across from Redrock, during an investigation for the nearby Copper Bluff Mine site.  There is an ongoing investigation to evaluate potential cleanup solutions to address this contamination and reduce community member's exposure. In the interim, the Hoopa Valley Tribal EPA has posted signage and a temporary gravel cover to limit access to the contaminated material.  "
     },
     {
       "fedfacilityflag": "N",
@@ -4301,7 +4301,7 @@
       "siteid": "0900885",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "Emerging contaminants are being investigated."
     },
     {
       "fedfacilityflag": "Y",
@@ -33017,7 +33017,7 @@
       "fedfacilityflag": "N",
       "state_code": "ME",
       "sitename": "MCKIN CO.",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HHPA",
       "zipcode": "04039",
       "state": "Maine",
       "friendlyurl": "www.epa.gov/superfund/mckin",
