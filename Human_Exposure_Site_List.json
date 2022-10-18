@@ -2663,7 +2663,7 @@
       "siteid": "0902767",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of September 2022, the TRAVIS AIR FORCE BASE Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID). "
     },
     {
       "fedfacilityflag": "Y",
@@ -2681,7 +2681,7 @@
       "siteid": "0902762",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of September 2022, the TRACY DEFENSE DEPOT (USARMY) Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID). "
     },
     {
       "fedfacilityflag": "Y",
@@ -3281,7 +3281,7 @@
       "fedfacilityflag": "N",
       "state_code": "CA",
       "sitename": "WASTE DISPOSAL, INC.",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HHPA",
       "zipcode": "90670",
       "state": "California",
       "friendlyurl": "www.epa.gov/superfund/wastedisposal",
@@ -4301,7 +4301,7 @@
       "siteid": "0900885",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "Emerging contaminants are being investigated."
+      "humanexposurepathdesc": "As of October 2022, the Yuma Marine Corps Air Station Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID) because of a newly identified exposure pathway and/or contaminant(s). Per- and polyfluoroalkyl substances (collectively referred to as PFAS) have been identified in soil and groundwater located on the site at concentrations above human-health screening levels. The site was previously categorized as “Human Exposure Under Control” (HEUC) because known soil and groundwater impacts from other contaminants were controlled such that no exposure to human receptors was occurring. Though remedies in some areas may control human exposure to PFAS, such as the prohibition of residential land use across portions of the site, some PFAS impacts are located in previously unassessed areas. <br/><br/>EPA uses this Human Exposure status when there is a lack of evidence to suggest that actual or reasonably anticipated human exposures are occurring and that those exposures are above acceptable risk-based levels. The planned activities to collect sufficient information to evaluate this new exposure pathway and/or contaminants(s) are the collection of additional soil and groundwater samples to determine the full vertical and lateral extent of PFAS impacts and a comparison of these impacts to potential exposure points, such as groundwater production wells. The Department of the Navy, the lead agency conducting the investigation, currently anticipates that there will be sufficient data to make a Human Exposure evaluation by September 30, 2023 because the planned additional investigation should determine the extent of PFAS contamination in relation to potential exposure points.<br/>"
     },
     {
       "fedfacilityflag": "Y",
@@ -5945,7 +5945,7 @@
       "fedfacilityflag": "N",
       "state_code": "KS",
       "sitename": "CHEROKEE ZINC - WEIR SMELTER",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "zipcode": "66781",
       "state": "Kansas",
       "friendlyurl": "www.epa.gov/superfund/cherokeezincweirsmelter",
@@ -8999,7 +8999,7 @@
       "siteid": "0602895",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": ""
+      "humanexposurepathdesc": "As of August 2022, the protectiveness determination for the Site is deferred until the TI boundary in the P-05 area is evaluated and approved; the storm sewer lining is implemented to prevent contaminated groundwater migration into the storm sewer, follow-up monitoring conducted; and long-term measures are implemented in the coal tar seep area to prevent dermal and inhalation exposure."
     },
     {
       "fedfacilityflag": "N",
@@ -9053,7 +9053,7 @@
       "siteid": "0602803",
       "nplstatus": "F",
       "saaflag": "N",
-      "humanexposurepathdesc": "As of September 2022, the UNITED CREOSOTING CO. Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID) because there is the potential for new exposure pathway via vapor intrusion of groundwater and soil. EPA is awaiting results of the vapor intrusion investigation. EPA will begin soil assessment once the vapor intrusion investigation is complete.<br/><br/>"
+      "humanexposurepathdesc": ""
     },
     {
       "fedfacilityflag": "N",
