@@ -5926,7 +5926,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "BELLEVUE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "SARPY",
       "fedfacilityflag": "N",
@@ -20092,7 +20092,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "HATTIESBURG",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "FORREST",
       "fedfacilityflag": "N",
