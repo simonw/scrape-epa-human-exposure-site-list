@@ -128,7 +128,7 @@
       "friendlyurl": "www.epa.gov/superfund/north-ridge-estates"
     },
     {
-      "humanexposurepathdesc": "",
+      "humanexposurepathdesc": "Newly proposed site.  We will need time to develop clean up strategy and schedule.",
       "city": "CASCADE LOCKS",
       "nplstatus": "F",
       "saaflag": "N",
@@ -1154,7 +1154,7 @@
       "friendlyurl": "www.epa.gov/superfund/hidden-valley-landfill"
     },
     {
-      "humanexposurepathdesc": "As of July 2021, there is insufficient data to determine the human exposure status at The Boeing Co. Tulalip Test Site. Surface, subsurface, and ground water have been found to be contaminated with trichloroethene, dichloroethene, chloroethene, benzene, PCBs, and acetone. Four TCE plumes have been identified at the site.<br/><br/>The Boeing Tulalip site is a Superfund Alternative Site.  EPA and the Boeing Company signed an Administrative Order on Consent on Sept. 27, 2010, and established a schedule for a Remedial Investigation/Feasibility Study (RI/FS) to determine whether there are human health risks from the site. Testing has been conducted over much of the site and in-situ treatment is currently being tested on one of the four plumes. More time is necessary to ascertain if this will effectively address current risks at the site.",
+      "humanexposurepathdesc": "",
       "city": "MARYSVILLE",
       "nplstatus": "N",
       "saaflag": "Y",
@@ -15644,7 +15644,7 @@
       "friendlyurl": "www.epa.gov/superfund/tippecanoe-sanitary-landfill"
     },
     {
-      "humanexposurepathdesc": "As of May 2022, the Beck's Lake Superfund site is considered \"Current Human Exposure Not Under Control\" because soil sampling in November and December 2019 at LaSalle Park indicated lead levels above recreational screening criteria in surface soils. Residential lead sampling conducted in 2018 indicated sub-surface lead levels exceeding screening criteria, but no residential surface soils exceeded screening criteria. On February 16, 2022 EPA signed an Agreement on Consent with the potentially responsible parties to conduct a time-critical removal action to address lead contamination within the LaSalle Park and limited residential areas in Summer 2022.",
+      "humanexposurepathdesc": "",
       "city": "SOUTH BEND",
       "nplstatus": "F",
       "saaflag": "N",
@@ -22322,7 +22322,7 @@
       "friendlyurl": "www.epa.gov/superfund/peck"
     },
     {
-      "humanexposurepathdesc": "",
+      "humanexposurepathdesc": "As of May 2022, there is insufficient information to determine the Sitewide Human Exposure Control status at Bear Creek Sediment Superfund Site.  The Site was listed on the National Priorities List on March 16, 2022, and EPA is currently in the process of scoping a Remedial Investigation/Feasibility Study (RI/FS) for the Site.  The planned RI/FS activities to collect sufficient information to make a human exposure evaluation will occur in 2022 and 2023.  In the interim, the State of Maryland has issued health advisories pertaining to the consumption of marine fish and crabs which may be impacted by Site-related contamination.",
       "city": "SPARROWS POINT",
       "nplstatus": "F",
       "saaflag": "N",
@@ -22412,7 +22412,7 @@
       "friendlyurl": "www.epa.gov/superfund/ravenswood"
     },
     {
-      "humanexposurepathdesc": "",
+      "humanexposurepathdesc": "As of May 2022, there is insufficient information to determine the Sitewide Human Exposure Control status at Paden City Groundwater Superfund Site. The Paden City Groundwater Superfund Site was finalized for the NPL on 03/16/2022, and there has been no evaluation of the human health exposure indication yet. The planned activities to collect sufficient information to make a human exposure evaluation include a Remedial Investigation.",
       "city": "PADEN CITY",
       "nplstatus": "F",
       "saaflag": "N",
@@ -27182,7 +27182,7 @@
       "friendlyurl": "www.epa.gov/superfund/curtis-papers"
     },
     {
-      "humanexposurepathdesc": "",
+      "humanexposurepathdesc": "As of April 2022, there is insufficient information to determine the site-wide human exposure status at the Ochoa Fertilizer Co. Superfund Site.  Past site activities include the manufacturing of sulfuric acid, ammonia compounds and fertilizers. The site has been proposed for inclusion on the NPL.   A Remedial Investigation/Feasibility Study (RI/FS) will be conducted to determine the nature and extent of the contamination. Once the RI is completed, a risk assessment will be prepared to determine the potential impact to human health and the environment.  It is anticipated that upon completion of the risk assessment and the selection of the remedy, a sitewide human exposure determination can be made.  <br/> <br/>EPA ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets. A site profile has been established on the EPA website to keep the community informed of recent progress at the site. Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise.<br/>",
       "city": "GUANICA",
       "nplstatus": "F",
       "saaflag": "N",
@@ -27290,7 +27290,7 @@
       "friendlyurl": "www.epa.gov/superfund/gcl-tie"
     },
     {
-      "humanexposurepathdesc": "",
+      "humanexposurepathdesc": "As of January 2022, there is insufficient information to determine the site-wide human exposure status at the Meeker Avenue Plume site in Brooklyn, New York. A Remedial Investigation/Feasibility Study (RI/FS) is currently being conducted to determine the nature and extent of contamination. Once the RI is completed, a risk assessment will be prepared to determine the potential impact to human health and the environment.<br/><br/>EPA currently ensures community participation throughout the remedial process by meeting with residents and affected stakeholders, issuing public notices and updating fact sheets which are available on the web. Additionally, an EPA Community Involvement Coordinator is assigned to the site and can address specific community concerns as they arise.",
       "city": "BROOKLYN",
       "nplstatus": "F",
       "saaflag": "N",
@@ -31952,7 +31952,7 @@
       "friendlyurl": "www.epa.gov/superfund/jard"
     },
     {
-      "humanexposurepathdesc": "",
+      "humanexposurepathdesc": "Newly listed site, RI just getting underway.  Current fish consumption advisories, direct contact soil/sediment risks to be evaluated.",
       "city": "BOSTON/MILTON",
       "nplstatus": "F",
       "saaflag": "N",
