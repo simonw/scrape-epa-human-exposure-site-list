@@ -1515,6 +1515,24 @@
     },
     {
       "humanexposurepathdesc": "",
+      "city": "LAKEVIEW",
+      "nplstatus": "N",
+      "saaflag": "Y",
+      "county": "LAKE",
+      "fedfacilityflag": "N",
+      "zipcode": "97630",
+      "epaid": "ORD980511497",
+      "regionid": "10",
+      "sitename": "ALKALI LK DSPL",
+      "eibaselinesiteInd": "N",
+      "siteid": "1000468",
+      "humexposurestscode": "",
+      "state": "Oregon",
+      "state_code": "OR",
+      "friendlyurl": "www.epa.gov/superfund/null"
+    },
+    {
+      "humanexposurepathdesc": "",
       "city": "PORTLAND",
       "nplstatus": "D",
       "saaflag": "N",
@@ -34005,7 +34023,7 @@
     }
   ],
   "meta": {
-    "total_data": 1889,
+    "total_data": 1890,
     "limit": 500000,
     "offset": 0
   }
