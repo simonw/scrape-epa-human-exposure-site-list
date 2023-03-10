@@ -8014,7 +8014,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "SAN ANTONIO",
-      "nplstatus": "F",
+      "nplstatus": "D",
       "saaflag": "N",
       "county": "BEXAR",
       "fedfacilityflag": "N",
@@ -25304,7 +25304,7 @@
       "sitename": "BENDIX FLIGHT SYSTEMS DIVISION",
       "eibaselinesiteInd": "Y",
       "siteid": "0300694",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/bendix"
