@@ -2037,6 +2037,24 @@
     },
     {
       "humanexposurepathdesc": "",
+      "city": "COVE",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "APACHE",
+      "fedfacilityflag": "N",
+      "zipcode": "86544",
+      "epaid": "NNN000920223",
+      "regionid": "09",
+      "sitename": "LUKACHUKAI MOUNTAINS MINING DISTRICT",
+      "eibaselinesiteInd": "N",
+      "siteid": "0920223",
+      "humexposurestscode": "",
+      "state": "Arizona",
+      "state_code": "AZ",
+      "friendlyurl": "www.epa.gov/superfund/lukachukai"
+    },
+    {
+      "humanexposurepathdesc": "",
       "city": "ROGUE RIVER-SISKIYOU NF",
       "nplstatus": "F",
       "saaflag": "N",
@@ -9687,6 +9705,24 @@
     },
     {
       "humanexposurepathdesc": "",
+      "city": "MUSKOGEE",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "MUSKOGEE",
+      "fedfacilityflag": "N",
+      "zipcode": "74403",
+      "epaid": "OKD007221831",
+      "regionid": "06",
+      "sitename": "FANSTEEL METALS/FMRI",
+      "eibaselinesiteInd": "N",
+      "siteid": "0601045",
+      "humexposurestscode": "",
+      "state": "Oklahoma",
+      "state_code": "OK",
+      "friendlyurl": "www.epa.gov/superfund/fansteel-metals"
+    },
+    {
+      "humanexposurepathdesc": "",
       "city": "OKLAHOMA CITY",
       "nplstatus": "D",
       "saaflag": "N",
@@ -10080,6 +10116,24 @@
       "state": "Louisiana",
       "state_code": "LA",
       "friendlyurl": "www.epa.gov/superfund/dutchtown-treatment-plant"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "BATON ROUGE",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "EAST BATON ROUGE",
+      "fedfacilityflag": "N",
+      "zipcode": "70802",
+      "epaid": "LAD980869440",
+      "regionid": "06",
+      "sitename": "CAPITOL LAKES",
+      "eibaselinesiteInd": "N",
+      "siteid": "0600622",
+      "humexposurestscode": "",
+      "state": "Louisiana",
+      "state_code": "LA",
+      "friendlyurl": "www.epa.gov/superfund/capitol-lakes"
     },
     {
       "humanexposurepathdesc": "",
@@ -16236,6 +16290,24 @@
       "state": "Indiana",
       "state_code": "IN",
       "friendlyurl": "www.epa.gov/superfund/camor-inc"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "HAMMOND",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "LAKE",
+      "fedfacilityflag": "N",
+      "zipcode": "46394",
+      "epaid": "IND005444104",
+      "regionid": "05",
+      "sitename": "FEDERATED METALS CORP WHITING",
+      "eibaselinesiteInd": "N",
+      "siteid": "0501275",
+      "humexposurestscode": "",
+      "state": "Indiana",
+      "state_code": "IN",
+      "friendlyurl": "www.epa.gov/superfund/federated-metals"
     },
     {
       "humanexposurepathdesc": "",
@@ -22594,7 +22666,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "NEW CASTLE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "NEW CASTLE",
       "fedfacilityflag": "N",
@@ -34023,7 +34095,7 @@
     }
   ],
   "meta": {
-    "total_data": 1890,
+    "total_data": 1894,
     "limit": 500000,
     "offset": 0
   }
