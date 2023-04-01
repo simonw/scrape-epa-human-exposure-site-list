@@ -6969,7 +6969,7 @@
     },
     {
       "humanexposurepathdesc": "",
-      "city": "ST. LOUIS",
+      "city": "ST. LOUIS COUNTY",
       "nplstatus": "F",
       "saaflag": "N",
       "county": "ST. LOUIS",
@@ -29534,7 +29534,7 @@
       "sitename": "NEPERA CHEMICAL CO., INC.",
       "eibaselinesiteInd": "Y",
       "siteid": "0201188",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "New York",
       "state_code": "NY",
       "friendlyurl": "www.epa.gov/superfund/nepera-chemical"
@@ -29750,7 +29750,7 @@
       "sitename": "POHATCONG VALLEY GROUND WATER CONTAMINATION",
       "eibaselinesiteInd": "Y",
       "siteid": "0201075",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "New Jersey",
       "state_code": "NJ",
       "friendlyurl": "www.epa.gov/superfund/pohatcong-valley-groundwater"
