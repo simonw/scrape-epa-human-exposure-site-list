@@ -2702,7 +2702,7 @@
       "friendlyurl": "www.epa.gov/superfund/travisafb"
     },
     {
-      "humanexposurepathdesc": "As of September 2022, the Tracy Defense Depot Superfund site is considered “Insufficient Data to make a Human Exposure evaluation” (HEID) because of a newly identified contaminant for the potential indoor air exposure pathway at Building 247, located within Site SWMU 24, Operable Unit 1. The site was previously categorized as Human Exposure Controlled and Protective Remedy in Place (HEPR). The remedy at SWMU 24 currently protects human health and the environment because bioventing has reduced COC concentrations in soil, Land Use Controls are in place and are effective, and previous indoor air sampling results were not greater than commercial/industrial screening levels. However, as part of the Site’s Fourth Five-Year Review, the data from indoor air samples collected in 2004 was reviewed and found to not address possible petroleum hydrocarbon contaminants sufficiently, specifically napththalene. Therefore, additional data is necessary to determine if the remedy is protective in the long-term.<br/><br/>EPA uses this Human Exposure status when there is a lack of evidence to suggest that actual or reasonably anticipated human exposures are occurring and that those exposures are above acceptable risk-based levels. The planned activities to collect sufficient information to evaluate the indoor air exposure pathway for petroleum hydrocarbons will be based on current EPA and DTSC guidance for evaluating vapor intrusion at sites contaminated by petroleum hydrocarbons. The sampling will involve performing the following activities: a building survey to identify chemicals and materials in the building that may contain volatile petroleum hydrocarbon constituents and the potential preferential pathways for vapor intrusion; removal of chemicals and materials, if needed; and collection and analysis of indoor and outdoor ambient air samples. The analytical data will be compared to screening levels to evaluate potential health risks.<br/><br/>EPA currently anticipates that there will be sufficient data to make a Human Exposure evaluation by 9/29/2023 because the results of the data collection will be provided to EPA in late 2022 and the human exposure evaluation by EPA based on this data is expected to be completed by the end of Fiscal Year 2023. <br/><br/>",
+      "humanexposurepathdesc": "",
       "city": "TRACY",
       "nplstatus": "F",
       "saaflag": "N",
@@ -6872,7 +6872,7 @@
       "sitename": "SOLID STATE CIRCUITS, INC.",
       "eibaselinesiteInd": "Y",
       "siteid": "0701392",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "Missouri",
       "state_code": "MO",
       "friendlyurl": "www.epa.gov/superfund/solidstatecircuit"
