@@ -1958,7 +1958,7 @@
       "sitename": "EIELSON AIR FORCE BASE",
       "eibaselinesiteInd": "Y",
       "siteid": "1000110",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "Alaska",
       "state_code": "AK",
       "friendlyurl": "www.epa.gov/superfund/eielson-afb"
@@ -26723,7 +26723,7 @@
       "zipcode": "00707",
       "epaid": "PRN000205831",
       "regionid": "02",
-      "sitename": "MAUNABO URBANO PUBLIC WELLS",
+      "sitename": "MAUNABO AREA GROUND WATER CONTAMINATION",
       "eibaselinesiteInd": "Y",
       "siteid": "0205831",
       "humexposurestscode": "HEUC",
