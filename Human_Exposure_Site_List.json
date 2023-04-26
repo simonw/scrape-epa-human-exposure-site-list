@@ -122,7 +122,7 @@
       "sitename": "NORTH RIDGE ESTATES",
       "eibaselinesiteInd": "Y",
       "siteid": "1002476",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HENC",
       "state": "Oregon",
       "state_code": "OR",
       "friendlyurl": "www.epa.gov/superfund/north-ridge-estates"
@@ -1004,7 +1004,7 @@
       "sitename": "TULALIP LANDFILL",
       "eibaselinesiteInd": "Y",
       "siteid": "1000878",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HENC",
       "state": "Washington",
       "state_code": "WA",
       "friendlyurl": "www.epa.gov/superfund/tulalip-landfill"
