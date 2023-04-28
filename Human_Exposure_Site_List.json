@@ -27950,7 +27950,7 @@
       "sitename": "PLATTSBURGH AIR FORCE BASE",
       "eibaselinesiteInd": "Y",
       "siteid": "0202439",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "New York",
       "state_code": "NY",
       "friendlyurl": "www.epa.gov/superfund/plattsburgh-afb"
@@ -28778,7 +28778,7 @@
       "sitename": "LOWER HACKENSACK RIVER",
       "eibaselinesiteInd": "Y",
       "siteid": "0201845",
-      "humexposurestscode": "",
+      "humexposurestscode": "HENC",
       "state": "New Jersey",
       "state_code": "NJ",
       "friendlyurl": "www.epa.gov/superfund/lower-hackensack-river"
@@ -29678,7 +29678,7 @@
       "sitename": "NAVAL WEAPONS STATION EARLE (SITE A)",
       "eibaselinesiteInd": "Y",
       "siteid": "0201160",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "New Jersey",
       "state_code": "NJ",
       "friendlyurl": "www.epa.gov/superfund/nws-earle"
