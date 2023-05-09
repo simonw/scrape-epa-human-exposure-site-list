@@ -27014,7 +27014,7 @@
       "sitename": "SMITHTOWN GROUND WATER CONTAMINATION",
       "eibaselinesiteInd": "Y",
       "siteid": "0204148",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HHPA",
       "state": "New York",
       "state_code": "NY",
       "friendlyurl": "www.epa.gov/superfund/smithtown-groundwater"
@@ -28130,7 +28130,7 @@
       "sitename": "HAVILAND COMPLEX",
       "eibaselinesiteInd": "Y",
       "siteid": "0202284",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HHPA",
       "state": "New York",
       "state_code": "NY",
       "friendlyurl": "www.epa.gov/superfund/haviland-complex"
