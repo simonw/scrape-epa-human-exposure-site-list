@@ -8690,7 +8690,7 @@
       "sitename": "NORTH RAILROAD AVENUE PLUME",
       "eibaselinesiteInd": "Y",
       "siteid": "0604299",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "New Mexico",
       "state_code": "NM",
       "friendlyurl": "www.epa.gov/superfund/north-railroad-avenue-plume"
@@ -23702,7 +23702,7 @@
       "sitename": "NAVY SHIPS PARTS CONTROL CENTER",
       "eibaselinesiteInd": "Y",
       "siteid": "0302460",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/navyshipspartscontrolcenter"
@@ -23720,7 +23720,7 @@
       "sitename": "LETTERKENNY ARMY DEPOT (PDO AREA)",
       "eibaselinesiteInd": "Y",
       "siteid": "0302458",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/letterkennyarmydepotpdoarea"
