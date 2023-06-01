@@ -22388,7 +22388,7 @@
       "sitename": "MILLSBORO TCE",
       "eibaselinesiteInd": "N",
       "siteid": "0306645",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "Delaware",
       "state_code": "DE",
       "friendlyurl": "www.epa.gov/superfund/millsboro"
@@ -22658,7 +22658,7 @@
       "sitename": "GEORGETOWN NORTH GROUNDWATER",
       "eibaselinesiteInd": "Y",
       "siteid": "0304167",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "state": "Delaware",
       "state_code": "DE",
       "friendlyurl": "www.epa.gov/superfund/georgetowngroundwater"
@@ -22676,7 +22676,7 @@
       "sitename": "EAST BASIN ROAD GROUNDWATER",
       "eibaselinesiteInd": "N",
       "siteid": "0304044",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "state": "Delaware",
       "state_code": "DE",
       "friendlyurl": "www.epa.gov/superfund/eastbasin"
@@ -23396,7 +23396,7 @@
       "sitename": "ABEX CORP.",
       "eibaselinesiteInd": "Y",
       "siteid": "0302667",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HHPA",
       "state": "Virginia",
       "state_code": "VA",
       "friendlyurl": "www.epa.gov/superfund/abex"
@@ -23504,7 +23504,7 @@
       "sitename": "AVTEX FIBERS, INC.",
       "eibaselinesiteInd": "Y",
       "siteid": "0302606",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "Virginia",
       "state_code": "VA",
       "friendlyurl": "www.epa.gov/superfund/avtex"
@@ -26294,7 +26294,7 @@
       "sitename": "DELAWARE CITY PVC PLANT",
       "eibaselinesiteInd": "Y",
       "siteid": "0300091",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "Delaware",
       "state_code": "DE",
       "friendlyurl": "www.epa.gov/superfund/delawarecitypvc"
