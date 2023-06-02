@@ -68,7 +68,7 @@
       "sitename": "MAKAH RESERVATION WARMHOUSE BEACH DUMP",
       "eibaselinesiteInd": "Y",
       "siteid": "1002857",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HEUC",
       "state": "Washington",
       "state_code": "WA",
       "friendlyurl": "www.epa.gov/superfund/warmhouse-beach"
@@ -22532,7 +22532,7 @@
       "sitename": "VIENNA TETRACHLOROETHENE",
       "eibaselinesiteInd": "Y",
       "siteid": "0304759",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "West Virginia",
       "state_code": "WV",
       "friendlyurl": "www.epa.gov/superfund/vienna"
@@ -22622,7 +22622,7 @@
       "sitename": "SAFETY LIGHT CORPORATION",
       "eibaselinesiteInd": "Y",
       "siteid": "0304257",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/safetylight"
@@ -24926,7 +24926,7 @@
       "sitename": "COMMODORE SEMICONDUCTOR GROUP",
       "eibaselinesiteInd": "Y",
       "siteid": "0301146",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/commodore"
@@ -25358,7 +25358,7 @@
       "sitename": "AVCO LYCOMING (WILLIAMSPORT DIVISION)",
       "eibaselinesiteInd": "Y",
       "siteid": "0300699",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/avcolycoming"
