@@ -68,7 +68,7 @@
       "sitename": "MAKAH RESERVATION WARMHOUSE BEACH DUMP",
       "eibaselinesiteInd": "Y",
       "siteid": "1002857",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HENC",
       "state": "Washington",
       "state_code": "WA",
       "friendlyurl": "www.epa.gov/superfund/warmhouse-beach"
@@ -3506,7 +3506,7 @@
       "sitename": "SAN GABRIEL VALLEY (AREA 1)",
       "eibaselinesiteInd": "Y",
       "siteid": "0901951",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HEUC",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/sangabrielelmonte"
@@ -25394,7 +25394,7 @@
       "sitename": "FOSTER WHEELER ENERGY CORP./CHURCH ROAD TCE",
       "eibaselinesiteInd": "Y",
       "siteid": "0300671",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/fosterwheeler"
