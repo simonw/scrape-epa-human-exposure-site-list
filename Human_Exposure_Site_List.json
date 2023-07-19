@@ -1946,7 +1946,7 @@
       "friendlyurl": "www.epa.gov/superfund/adak-nas"
     },
     {
-      "humanexposurepathdesc": "As of April 18, 2023 - PFAS is present in the groundwater offsite. Many homes in this area have private drinking water wells. Homes with drinking water wells with PFAS present above 70 ppt were put on alternate water between 2020 and 2022. There are additional homes with private drinking water wells who have not been sampled. Groundwater samples around these homes have PFAS concentration of 7ppt. Per the draft PFAS EI guidance, areas with insufficient drinking water data to make a hazard index calculation should have an EI of human exposure insufficient data (HEID). ",
+      "humanexposurepathdesc": "As of April 2023, PFAS is present in the groundwater offsite. Many homes in this area have private drinking water wells. Homes with drinking water wells with PFAS present above 70 ppt were put on alternate water between 2020 and 2022. There are additional homes with private drinking water wells who have not been sampled. Groundwater samples around these homes have PFAS concentration of 7ppt. Per the draft PFAS EI guidance, areas with insufficient drinking water data to make a hazard index calculation should have an EI of human exposure insufficient data (HEID). ",
       "city": "FAIRBANKS",
       "nplstatus": "F",
       "saaflag": "N",
