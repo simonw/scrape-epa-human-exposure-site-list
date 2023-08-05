@@ -18410,7 +18410,7 @@
       "sitename": "PADUCAH GASEOUS DIFFUSION PLANT (USDOE)",
       "eibaselinesiteInd": "Y",
       "siteid": "0404794",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HESD",
       "state": "Kentucky",
       "state_code": "KY",
       "friendlyurl": "www.epa.gov/superfund/paducha-gaseous-diffusion-plant"
@@ -19112,7 +19112,7 @@
       "sitename": "ROCK HILL CHEMICAL CO.",
       "eibaselinesiteInd": "Y",
       "siteid": "0403425",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "South Carolina",
       "state_code": "SC",
       "friendlyurl": "www.epa.gov/superfund/rock-hill-chemical-rutledge-property"
@@ -19616,7 +19616,7 @@
       "sitename": "NATIONAL STARCH & CHEMICAL CORP.",
       "eibaselinesiteInd": "Y",
       "siteid": "0403168",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "North Carolina",
       "state_code": "NC",
       "friendlyurl": "www.epa.gov/superfund/national-starch"
