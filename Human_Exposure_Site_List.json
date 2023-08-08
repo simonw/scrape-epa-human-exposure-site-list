@@ -8060,7 +8060,7 @@
       "sitename": "DELFASCO FORGE",
       "eibaselinesiteInd": "Y",
       "siteid": "0606872",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HENC",
       "state": "Texas",
       "state_code": "TX",
       "friendlyurl": "www.epa.gov/superfund/delfasco-forge"
@@ -13442,7 +13442,7 @@
       "sitename": "LAGRAND SANITARY LANDFILL",
       "eibaselinesiteInd": "Y",
       "siteid": "0503937",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HEPR",
       "state": "Minnesota",
       "state_code": "MN",
       "friendlyurl": "www.epa.gov/superfund/lagrand-sanitary-landfill"
@@ -27962,7 +27962,7 @@
       "saaflag": "N",
       "county": "ONEIDA",
       "fedfacilityflag": "Y",
-      "zipcode": "13440",
+      "zipcode": "13441",
       "epaid": "NY4571924451",
       "regionid": "02",
       "sitename": "GRIFFISS AIR FORCE BASE (11 AREAS)",
