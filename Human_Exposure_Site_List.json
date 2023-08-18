@@ -16664,7 +16664,7 @@
       "sitename": "ADAMS COUNTY QUINCY LANDFILLS 2&3",
       "eibaselinesiteInd": "Y",
       "siteid": "0500656",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HEID",
       "state": "Illinois",
       "state_code": "IL",
       "friendlyurl": "www.epa.gov/superfund/adams-county-landfills"
@@ -27248,7 +27248,7 @@
       "sitename": "ZSCHIEGNER REFINING",
       "eibaselinesiteInd": "Y",
       "siteid": "0203757",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEPR",
       "state": "New Jersey",
       "state_code": "NJ",
       "friendlyurl": "www.epa.gov/superfund/zschiegner-refining"
