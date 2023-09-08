@@ -6104,6 +6104,24 @@
       "friendlyurl": "www.epa.gov/superfund/viennawells"
     },
     {
+      "humanexposurepathdesc": "",
+      "city": "DES MOINES",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "POLK",
+      "fedfacilityflag": "N",
+      "zipcode": "50321",
+      "epaid": "IAN000705485",
+      "regionid": "07",
+      "sitename": "LOT 46 VALLEY GARDENS TCE",
+      "eibaselinesiteInd": "N",
+      "siteid": "0705485",
+      "humexposurestscode": "",
+      "state": "Iowa",
+      "state_code": "IA",
+      "friendlyurl": "www.epa.gov/superfund/Lot46ValleyGardensTCE"
+    },
+    {
       "humanexposurepathdesc": "As of March 2022, the Southwest Jefferson County Mining Site is considered 'Current Human Exposure Not Under Control' because residents can be exposed through direct contact with lead contaminated soils, drinking water, sediments and mine waste at the Site. The planned activities to address these pathways include on-going sampling and remediation of residential yards, providing bottled water for residents with lead contaminated wells (ROD planned for FY22), completion of an RI/FS and pilot projects related to lead contaminated sediments (ROD planned for 2023), and completion of an RI/FS relating to lead contaminated mine waste (ROD planned for 2023). EPA began cleaning up the lead contaminated residential soil in 2007 and has addressed over 1,280 properties since that time. Bottled water is being provided to 55 homes where lead exceeds 15 parts per billion. Work continues as thousands of properties remain untested and over 340 properties still require remediation. Lead contaminated sediments and mine waste will be addressed under future actions but fish advisory notifications and signs at several public access points warn of the potential for lead exposure.",
       "city": "JEFFERSON COUNTY",
       "nplstatus": "F",
@@ -9706,7 +9724,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "MUSKOGEE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "MUSKOGEE",
       "fedfacilityflag": "N",
@@ -10120,7 +10138,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "BATON ROUGE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "EAST BATON ROUGE",
       "fedfacilityflag": "N",
@@ -10314,6 +10332,24 @@
       "state": "Louisiana",
       "state_code": "LA",
       "friendlyurl": "www.epa.gov/superfund/delatte-metals"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "BATON ROUGE",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "EAST BATON ROUGE",
+      "fedfacilityflag": "N",
+      "zipcode": "70807",
+      "epaid": "LAD008184137",
+      "regionid": "06",
+      "sitename": "EXIDE BATON ROUGE",
+      "eibaselinesiteInd": "N",
+      "siteid": "0600387",
+      "humexposurestscode": "",
+      "state": "Louisiana",
+      "state_code": "LA",
+      "friendlyurl": "www.epa.gov/superfund/exide-baton-rouge"
     },
     {
       "humanexposurepathdesc": "",
@@ -11124,6 +11160,24 @@
       "state": "Indiana",
       "state_code": "IN",
       "friendlyurl": "www.epa.gov/superfund/elm-street-groundwater"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "CHICAGO",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "COOK",
+      "fedfacilityflag": "N",
+      "zipcode": "60617-6440",
+      "epaid": "ILN000509241",
+      "regionid": "05",
+      "sitename": "ACME STEEL COKE PLANT",
+      "eibaselinesiteInd": "N",
+      "siteid": "0509241",
+      "humexposurestscode": "",
+      "state": "Illinois",
+      "state_code": "IL",
+      "friendlyurl": "www.epa.gov/superfund/acme-steel-coke"
     },
     {
       "humanexposurepathdesc": "There is not sufficient information to determine the site-wide Human Exposure Control status at the New Carlisle Landfill site. The New Carlisle Landfill is a former general refuse and solid waste landfill which operated from the late 1950s to 1977. The landfill has remained unused and undeveloped since its closure in 1997. Volatile organic compounds above Safe Drinking Water Act Maximum Contaminant Levels were found in potable wells in close proximity to the landfill. In 2005, EPA completed a time-critical removal action to provide alternate water supplies (public water line extension and water line hook-up) to the businesses and residences with affected private wells. The Agency is currently confirming that all affected private wells were hooked up to alternate water. In addition, the landfill leachate discharging to nearby surface water may present an unacceptable risk to humans in the area. EPA is currently conducting a site investigation and is developing the site sampling and analysis plan.   It will be a priority to collect potential current human exposures information early in the investigation.",
@@ -16294,7 +16348,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "HAMMOND",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "LAKE",
       "fedfacilityflag": "N",
@@ -22446,6 +22500,24 @@
       "state": "Pennsylvania",
       "state_code": "PA",
       "friendlyurl": "www.epa.gov/superfund/pricebattery"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "LAURELDALE",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "BERKS",
+      "fedfacilityflag": "N",
+      "zipcode": "19605",
+      "epaid": "PAN000305561",
+      "regionid": "03",
+      "sitename": "FORMER EXIDE TECHNOLOGIES LAURELDALE",
+      "eibaselinesiteInd": "N",
+      "siteid": "0305561",
+      "humexposurestscode": "",
+      "state": "Pennsylvania",
+      "state_code": "PA",
+      "friendlyurl": "www.epa.gov/superfund/exide-laureldale"
     },
     {
       "humanexposurepathdesc": "",
@@ -34095,7 +34167,7 @@
     }
   ],
   "meta": {
-    "total_data": 1894,
+    "total_data": 1898,
     "limit": 500000,
     "offset": 0
   }
