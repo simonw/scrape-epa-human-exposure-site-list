@@ -13586,7 +13586,7 @@
       "sitename": "RITARI POST & POLE",
       "eibaselinesiteInd": "Y",
       "siteid": "0503902",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "Minnesota",
       "state_code": "MN",
       "friendlyurl": "www.epa.gov/superfund/ritari-post-pole"
@@ -17690,7 +17690,7 @@
       "sitename": "WESTSIDE LEAD",
       "eibaselinesiteInd": "Y",
       "siteid": "0407160",
-      "humexposurestscode": "",
+      "humexposurestscode": "HENC",
       "state": "Georgia",
       "state_code": "GA",
       "friendlyurl": "www.epa.gov/superfund/westside-lead"
@@ -18464,7 +18464,7 @@
       "sitename": "PADUCAH GASEOUS DIFFUSION PLANT (USDOE)",
       "eibaselinesiteInd": "Y",
       "siteid": "0404794",
-      "humexposurestscode": "HESD",
+      "humexposurestscode": "HEID",
       "state": "Kentucky",
       "state_code": "KY",
       "friendlyurl": "www.epa.gov/superfund/paducha-gaseous-diffusion-plant"
@@ -19436,7 +19436,7 @@
       "sitename": "GALEY AND LORD PLANT",
       "eibaselinesiteInd": "Y",
       "siteid": "0403308",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "state": "South Carolina",
       "state_code": "SC",
       "friendlyurl": "www.epa.gov/superfund/galey-and-lord-plant"
@@ -23799,7 +23799,7 @@
     },
     {
       "humanexposurepathdesc": "",
-      "city": "SADSBURYVILLE",
+      "city": "WEST CALN TOWNSHIP",
       "nplstatus": "F",
       "saaflag": "N",
       "county": "CHESTER",
