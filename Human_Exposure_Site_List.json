@@ -7886,7 +7886,7 @@
       "friendlyurl": "www.epa.gov/superfund/main-street-gw-plume"
     },
     {
-      "humanexposurepathdesc": "As of September 2022, there is insufficient data to determine human exposure control status.  The Henryetta Iron and Metal site was listed on the National Priorities List in September 2020.  The Remedial Investigation is ongoing.",
+      "humanexposurepathdesc": "",
       "city": "HENRYETTA",
       "nplstatus": "F",
       "saaflag": "N",
@@ -8318,7 +8318,7 @@
       "friendlyurl": "www.epa.gov/superfund/donna-reservoir-canal"
     },
     {
-      "humanexposurepathdesc": "As of November 2007, information available has determined there is no complete pathway for human exposure to site contaminant since the contaminants are present in the sediments only.  At this time, EPA believes that the contaminated sediments pose a potential ecological risk. \r<br/> ",
+      "humanexposurepathdesc": "",
       "city": "DEER PARK",
       "nplstatus": "F",
       "saaflag": "N",
