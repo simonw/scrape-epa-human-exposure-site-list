@@ -158,7 +158,7 @@
       "sitename": "HAMILTON/LABREE ROADS GW CONTAMINATION",
       "eibaselinesiteInd": "Y",
       "siteid": "1002174",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HENC",
       "state": "Washington",
       "state_code": "WA",
       "friendlyurl": "www.epa.gov/superfund/hamilton-labree"
@@ -284,7 +284,7 @@
       "sitename": "PALERMO WELL FIELD GROUND WATER CONTAMINATION",
       "eibaselinesiteInd": "Y",
       "siteid": "1001761",
-      "humexposurestscode": "HENC",
+      "humexposurestscode": "HEID",
       "state": "Washington",
       "state_code": "WA",
       "friendlyurl": "www.epa.gov/superfund/palermo"
@@ -2912,7 +2912,7 @@
       "sitename": "EDWARDS AIR FORCE BASE",
       "eibaselinesiteInd": "Y",
       "siteid": "0902725",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HEUC",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/edwardsafb"
@@ -27428,7 +27428,7 @@
       "sitename": "LEHIGH VALLEY RAILROAD",
       "eibaselinesiteInd": "Y",
       "siteid": "0203481",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HEUC",
       "state": "New York",
       "state_code": "NY",
       "friendlyurl": "www.epa.gov/superfund/lehigh-valley-rr"
