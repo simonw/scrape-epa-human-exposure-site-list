@@ -3092,7 +3092,7 @@
       "sitename": "MODESTO GROUND WATER CONTAMINATION",
       "eibaselinesiteInd": "Y",
       "siteid": "0902527",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/modesto"
@@ -3830,7 +3830,7 @@
       "sitename": "COAST WOOD PRESERVING",
       "eibaselinesiteInd": "Y",
       "siteid": "0901489",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HEPR",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/coastwoodpreserving"
@@ -32000,7 +32000,7 @@
       "sitename": "COLLINS & AIKMAN PLANT (FORMER)",
       "eibaselinesiteInd": "Y",
       "siteid": "0105928",
-      "humexposurestscode": "HENC",
+      "humexposurestscode": "HEIC",
       "state": "New Hampshire",
       "state_code": "NH",
       "friendlyurl": "www.epa.gov/superfund/collins"
