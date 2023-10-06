@@ -10058,7 +10058,7 @@
       "sitename": "DEVIL'S SWAMP LAKE",
       "eibaselinesiteInd": "N",
       "siteid": "0600652",
-      "humexposurestscode": "HENC",
+      "humexposurestscode": "HEID",
       "state": "Louisiana",
       "state_code": "LA",
       "friendlyurl": "www.epa.gov/superfund/devils-swamp-lake"
@@ -27536,7 +27536,7 @@
       "sitename": "BRILLO LANDFILL",
       "eibaselinesiteInd": "Y",
       "siteid": "0203129",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "state": "New York",
       "state_code": "NY",
       "friendlyurl": "www.epa.gov/superfund/brillo-landfill"
@@ -32000,7 +32000,7 @@
       "sitename": "COLLINS & AIKMAN PLANT (FORMER)",
       "eibaselinesiteInd": "Y",
       "siteid": "0105928",
-      "humexposurestscode": "HEIC",
+      "humexposurestscode": "HEUC",
       "state": "New Hampshire",
       "state_code": "NH",
       "friendlyurl": "www.epa.gov/superfund/collins"
