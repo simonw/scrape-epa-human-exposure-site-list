@@ -10688,7 +10688,7 @@
       "sitename": "NORTH 5TH STREET GROUNDWATER CONTAMINATION",
       "eibaselinesiteInd": "N",
       "siteid": "0510667",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "state": "Indiana",
       "state_code": "IN",
       "friendlyurl": "www.epa.gov/superfund/north5thstreet"
@@ -11786,7 +11786,7 @@
       "sitename": "UNITY AUTO MART",
       "eibaselinesiteInd": "N",
       "siteid": "0505544",
-      "humexposurestscode": "",
+      "humexposurestscode": "HEID",
       "state": "Wisconsin",
       "state_code": "WI",
       "friendlyurl": "www.epa.gov/superfund/unityautomart"
@@ -14432,7 +14432,7 @@
       "sitename": "SHIAWASSEE RIVER",
       "eibaselinesiteInd": "N",
       "siteid": "0503020",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HENC",
       "state": "Michigan",
       "state_code": "MI",
       "friendlyurl": "www.epa.gov/superfund/shiawassee-river"
