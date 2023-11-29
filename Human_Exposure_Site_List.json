@@ -6608,7 +6608,7 @@
       "friendlyurl": "www.epa.gov/superfund/cornhuskerarmyammunition"
     },
     {
-      "humanexposurepathdesc": "test",
+      "humanexposurepathdesc": "",
       "city": "COLUMBUS",
       "nplstatus": "F",
       "saaflag": "N",
@@ -6620,7 +6620,7 @@
       "sitename": "10TH STREET SITE",
       "eibaselinesiteInd": "Y",
       "siteid": "0702001",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HEPR",
       "state": "Nebraska",
       "state_code": "NE",
       "friendlyurl": "www.epa.gov/superfund/10thstreet"
@@ -31982,7 +31982,7 @@
       "sitename": "KEDDY MILL",
       "eibaselinesiteInd": "Y",
       "siteid": "0106078",
-      "humexposurestscode": "HEID",
+      "humexposurestscode": "HENC",
       "state": "Maine",
       "state_code": "ME",
       "friendlyurl": "www.epa.gov/superfund/keddymill"
@@ -32630,7 +32630,7 @@
       "sitename": "CENTRAL LANDFILL",
       "eibaselinesiteInd": "Y",
       "siteid": "0101277",
-      "humexposurestscode": "HHPA",
+      "humexposurestscode": "HEPR",
       "state": "Rhode Island",
       "state_code": "RI",
       "friendlyurl": "www.epa.gov/superfund/central"
@@ -33158,7 +33158,7 @@
       "friendlyurl": "www.epa.gov/superfund/oconnor"
     },
     {
-      "humanexposurepathdesc": "test",
+      "humanexposurepathdesc": "The Callahan Mining Corporation Superfund site is considered \"Current Human Exposure Not Under Control\" because PCBs are present in surface soil above levels considered acceptable for contact by a recreational or trespass visitor to the site.  The September 30, 2009 Record of Decision (ROD) identified the PCBs as a principal threat waste.  The ROD also identified the PCBs, lead, and arsenic as contaminants of concern that will be the focus of a portion of the cleanup action. \r<br/>\r<br/>This Human Exposure Control determination is based primarily on human health risk assessment(s) prepared for the site that took concentration of chemicals present and the frequency/duration of exposure to these chemicals, among other things, into account.  The primary contaminants of concern at the residential properties are arsenic and lead.  The primary concern for the non-residential portion of the site is PCBs.  \r<br/>\r<br/>The 2009 ROD outlines the remedy for the site.  Among other things, the ROD calls for the excavation and off-site disposal of soil above the site-specific cleanup values. The 2009 ROD also includes actions to protect ecological receptors from exposure to contaminated sediment and seeps and containment of the waste rock and tailing.\r<br/>\r<br/>Cleanup work to address unacceptable current human exposure was initiated in 2011.  During the remedial work, the extent and quatity of PCB contamination was found to be more signficant than anticipated.  While the on-site PCB cleanup will not be complete until 2013, arsenic and lead contamination has been removed from the residential properties.  Cleanup of the five residential properties is complete.  \r<br/>\r<br/>",
       "city": "BROOKSVILLE (CAPE ROSIER)",
       "nplstatus": "F",
       "saaflag": "N",
@@ -33170,7 +33170,7 @@
       "sitename": "CALLAHAN MINING CORP",
       "eibaselinesiteInd": "Y",
       "siteid": "0101028",
-      "humexposurestscode": "HENC",
+      "humexposurestscode": "HEUC",
       "state": "Maine",
       "state_code": "ME",
       "friendlyurl": "www.epa.gov/superfund/callahan"
