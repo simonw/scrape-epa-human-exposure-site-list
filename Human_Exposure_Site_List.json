@@ -164,6 +164,24 @@
       "friendlyurl": "www.epa.gov/superfund/hamilton-labree"
     },
     {
+      "humanexposurepathdesc": "",
+      "city": "VARIOUS",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "",
+      "fedfacilityflag": "N",
+      "zipcode": "99141",
+      "epaid": "WASFN1002171",
+      "regionid": "10",
+      "sitename": "UPPER COLUMBIA RIVER",
+      "eibaselinesiteInd": "N",
+      "siteid": "1002171",
+      "humexposurestscode": "",
+      "state": "Washington",
+      "state_code": "WA",
+      "friendlyurl": "www.epa.gov/superfund/null"
+    },
+    {
       "humanexposurepathdesc": "As of September 2023, Portland Harbor is considered Human Exposure Not Under Control based on data collected as part of the Remedial Investigation. The Portland Harbor Potentially Responsible Parties, under EPA and DEQ oversight, have collected and analyzed sediment, surface water, groundwater, and fish tissue data at the site. Contaminants of concern include heavy metals, pesticides, PCBs, PAHs, and dioxins/furans. The known exposure pathways for people are fish and shellfish consumption, ingestion of surface water, and direct contact with sediments. All of these pathways result in unacceptable exposures to humans. EPA has determined that the greatest health risk from exposure to contamination in Portland Harbor is from eating resident fish and to infants that are breast-fed by mothers who eat resident fish on a regular basis. The State Health Department has issued a health advisory and posted signs advising people to limit consumption of fish from the site. However, people are likely still eating the fish and fishing is observed daily at the site. The Oregon Department of Environmental Quality (DEQ) is working with upland facilities to investigate and control ongoing sources of contamination to the site. EPA issued a Record of Decision in 2017 and an Explanation of Significant Differences in 2019. The site is currently in Remedial Design. EPA posts major documents on its website and sends information regarding meetings and availability of major documents to a listserv (over 1,000 people) and has monthly meetings with the Citizen Advisory Group (which are open to the public). EPA has also reached out to neighborhood associations, non-profit environmental representatives and local organizations to provide training, small group discussions, presentations and multilingual materials regarding human health risks.",
       "city": "PORTLAND",
       "nplstatus": "F",
@@ -2038,7 +2056,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "COVE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "APACHE",
       "fedfacilityflag": "N",
@@ -2052,6 +2070,24 @@
       "state": "Arizona",
       "state_code": "AZ",
       "friendlyurl": "www.epa.gov/superfund/lukachukai"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "Bella Vista",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "SHASTA",
+      "fedfacilityflag": "N",
+      "zipcode": "96008",
+      "epaid": "CAN000908808",
+      "regionid": "09",
+      "sitename": "AFTERTHOUGHT MINE",
+      "eibaselinesiteInd": "N",
+      "siteid": "0908808",
+      "humexposurestscode": "",
+      "state": "California",
+      "state_code": "CA",
+      "friendlyurl": "www.epa.gov/superfund/null"
     },
     {
       "humanexposurepathdesc": "",
@@ -6106,7 +6142,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "DES MOINES",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "POLK",
       "fedfacilityflag": "N",
@@ -10336,7 +10372,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "BATON ROUGE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "EAST BATON ROUGE",
       "fedfacilityflag": "N",
@@ -11164,11 +11200,11 @@
     {
       "humanexposurepathdesc": "",
       "city": "CHICAGO",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "COOK",
       "fedfacilityflag": "N",
-      "zipcode": "60617-6440",
+      "zipcode": "60617",
       "epaid": "ILN000509241",
       "regionid": "05",
       "sitename": "ACME STEEL COKE PLANT",
@@ -15480,6 +15516,24 @@
       "state": "Michigan",
       "state_code": "MI",
       "friendlyurl": "www.epa.gov/superfund/north-bronson-industrial"
+    },
+    {
+      "humanexposurepathdesc": "",
+      "city": "ANN ARBOR",
+      "nplstatus": "P",
+      "saaflag": "N",
+      "county": "WASHTENAW",
+      "fedfacilityflag": "N",
+      "zipcode": "48103",
+      "epaid": "MID005341813",
+      "regionid": "05",
+      "sitename": "GELMAN SCIENCES INC",
+      "eibaselinesiteInd": "N",
+      "siteid": "0502257",
+      "humexposurestscode": "",
+      "state": "Michigan",
+      "state_code": "MI",
+      "friendlyurl": "www.epa.gov/superfund/null"
     },
     {
       "humanexposurepathdesc": "As of August 2023, there is not sufficient data to determine the site-wide Human Exposure Control status at the Hi-Mill Manufacturing Co. Superfund site because of a newly identified exposure pathway. Industrial/commercial workers at the Raves Construction, Inc. facility may be exposed to contaminants via the inhalation of volatile organic compounds through the vapor intrusion pathway. The contaminants include trichloroethylene (TCE), vinyl chloride (VC), and 1,2-dichloroethylene (1,2-DCE). In September 2019, EPA collected groundwater samples from the onsite monitoring wells. Analytical results indicate a concentration of 156,000 micrograms per liter of TCE in a shallow well adjacent to the building. The property owner voluntarily installed a sub-slab depressurization system (SSDS) in sections of the building; however, the necessity or effectiveness of SSDS has not been evaluated. The planned activities to address this exposure pathway include evaluating the vapor intrusion pathway and the SSDS system that the property owner installed. These activities are expected to be completed by the end of September 2025 at which time EPA expects to be able to determine the Human Exposure Control status.<br/>",
@@ -22504,7 +22558,7 @@
     {
       "humanexposurepathdesc": "",
       "city": "LAURELDALE",
-      "nplstatus": "P",
+      "nplstatus": "F",
       "saaflag": "N",
       "county": "BERKS",
       "fedfacilityflag": "N",
@@ -34167,7 +34221,7 @@
     }
   ],
   "meta": {
-    "total_data": 1898,
+    "total_data": 1901,
     "limit": 500000,
     "offset": 0
   }
