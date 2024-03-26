@@ -464,7 +464,7 @@
       "sitename": "FAIRCHILD AIR FORCE BASE (4 WASTE AREAS)",
       "eibaselinesiteInd": "Y",
       "siteid": "1001139",
-      "humexposurestscode": "HEUC",
+      "humexposurestscode": "HEID",
       "state": "Washington",
       "state_code": "WA",
       "friendlyurl": "www.epa.gov/superfund/fairchild-afb"
@@ -22593,7 +22593,7 @@
     },
     {
       "humanexposurepathdesc": "As of May 2023, the Lower Darby Creek Area Superfund sites is considered Human Exposure Not Under Control. This is due to potential risks from the consumption of game fish and turtles via recreational and/or subsistence fishing. EPA is currently working with the John Heinz National Wildlife Refuge, Pennsylvania Department of Environmental Protection, local community groups and municipalities to establish site-specific consumption recommendations which will be conveyed via signage throughout known and targeted fishing locations as well as through other outreach mechanisms. All other known human health exposure pathways that present potential unacceptable risks that may be occurring now or in the future have been addressed.",
-      "city": "DARBY TWP",
+      "city": "DARBY TOWNSHIP",
       "nplstatus": "F",
       "saaflag": "N",
       "county": "DELAWARE",
