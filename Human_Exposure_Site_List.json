@@ -2750,7 +2750,7 @@
       "sitename": "TRACY DEFENSE DEPOT (USARMY)",
       "eibaselinesiteInd": "Y",
       "siteid": "0902762",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEID",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/tracydefense"
@@ -3956,7 +3956,7 @@
       "sitename": "ADVANCED MICRO DEVICES, INC.",
       "eibaselinesiteInd": "Y",
       "siteid": "0901389",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/advancedmicrodevices"
@@ -4154,7 +4154,7 @@
       "sitename": "TRW MICROWAVE, INC (BUILDING 825)",
       "eibaselinesiteInd": "Y",
       "siteid": "0901181",
-      "humexposurestscode": "HEPR",
+      "humexposurestscode": "HEUC",
       "state": "California",
       "state_code": "CA",
       "friendlyurl": "www.epa.gov/superfund/trwmicrowave"
